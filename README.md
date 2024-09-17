@@ -30,8 +30,4 @@ The website includes the following pages:
 - **HTML5**: Structuring the web pages.
 - **Images**: Used to visually enhance the menu items and brand imagery.
 
-## How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mohammadabushams/Albaik-Restaurant.git
