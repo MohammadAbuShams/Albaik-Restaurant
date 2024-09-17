@@ -1,6 +1,6 @@
 # AlBaik Restaurant
 
-Welcome to the **AlBaik Restaurant** project! This is a nice website showcasing the menu, restaurant details, and basic features like a contact form, user registration, and a login page. Built with HTML, and some images, the site replicates a digital menu for one of Saudi Arabia's most popular fast-food chains, AlBaik.
+Welcome to the **AlBaik Restaurant** project! This is a website showcasing the menu, restaurant details, and basic features like a contact form, user registration, and a login page. Built with HTML, and some images, the site replicates a digital menu for one of Saudi Arabia's most popular fast-food chains, AlBaik.
 
 ## Live Demo
 
